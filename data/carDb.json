@@ -1,0 +1,60 @@
+{
+  "car": [
+    {
+      "brand": "Toyota",
+      "model": "Camry",
+      "colour": "Black",
+      "year": "2020",
+      "id": 1
+    },
+    {
+      "brand": "Toyota",
+      "model": "Corolla",
+      "colour": "Grey",
+      "year": "2019",
+      "id": 2
+    },
+    {
+      "brand": "Toyota",
+      "model": "Matrix",
+      "colour": "White",
+      "year": "2021",
+      "id": 3
+    },
+    {
+      "brand": "Toyota",
+      "model": "Muscle",
+      "colour": "Brown",
+      "year": "2017",
+      "id": 4
+    },
+    {
+      "brand": "Toyota",
+      "model": "Avalon",
+      "colour": "Blue",
+      "year": "2022",
+      "id": 5
+    },
+    {
+      "brand": "Corolla",
+      "model": "Prada",
+      "colour": "Yellow",
+      "year": "2000",
+      "id": 6
+    },
+    {
+      "brand": "Corolla",
+      "model": "Prada",
+      "colour": "Yellow",
+      "year": "2000",
+      "id": 7
+    },
+    {
+      "brand": "toyota",
+      "model": "camry",
+      "colour": "yellow",
+      "year": "2011",
+      "id": 8
+    }
+  ]
+}
