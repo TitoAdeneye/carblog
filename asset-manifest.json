@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/carblog/static/css/main.4ea24607.css",
+    "main.js": "/carblog/static/js/main.fd3e7c0e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/carblog/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/carblog/index.html",
+    "main.4ea24607.css.map": "/carblog/static/css/main.4ea24607.css.map",
+    "main.fd3e7c0e.js.map": "/carblog/static/js/main.fd3e7c0e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/carblog/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ea24607.css",
+    "static/js/main.fd3e7c0e.js"
+  ]
+}
